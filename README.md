@@ -12,6 +12,8 @@
   * Structure
   * Testing in Spring Boot
 
+## Workshops
+* [Day 1 and Day 2](https://github.com/up1/workshop-tdd-20211207-08)
 
 ### References
 * [Testing Strategies in a Microservice Architecture](https://www.martinfowler.com/articles/microservice-testing/)
